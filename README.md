@@ -1,4 +1,3 @@
-![Capture1](https://user-images.githubusercontent.com/82629643/129525881-f01db112-63f9-4c59-b650-5698dde971b8.JPG)
 # Bot_click
 ทำ  Bot Auto Click ด้วย Python ใช้กับ POPCAT เกิดจากความยอดฮิตของเว็บไซต์ https://popcat.click/ ที่คนนับล้านที่ว่างจัดมานั่งคลิก เพื่อศักศรีของประเทศ 
 เราจึงจัดทำ Bot click ขึ้นมาเพื่อให้ไม่ต้องนั่ง click ให้ปวดเมื่อยมือ 
